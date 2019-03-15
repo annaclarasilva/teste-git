@@ -10,6 +10,9 @@ namespace teste_git
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("De novo, vamos lá.");
+            Console.WriteLine("Hello World novamente.");
         }
     }
 }
