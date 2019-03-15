@@ -13,6 +13,7 @@ namespace teste_git
 
             Console.WriteLine("De novo, vamos lá.");
             Console.WriteLine("Hello World novamente.");
+            Console.WriteLine("Finalmente está dando certo.");
         }
     }
 }
